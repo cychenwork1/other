@@ -1,6 +1,9 @@
 其他專案
 wordpress 網頁測試
-
+![image](https://github.com/cychenwork1/other/blob/main/image/aa1.png)
+![image](https://github.com/cychenwork1/other/blob/main/image/aa2.png)
+後臺控制
+![image](https://github.com/cychenwork1/other/blob/main/image/aa3.png)
 
 
 wordpress2 餐廳
