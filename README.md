@@ -19,6 +19,8 @@ wordpress2 餐廳
 ![image](https://github.com/cychenwork1/other/blob/main/image/b3.png)
 ![image](https://github.com/cychenwork1/other/blob/main/image/b4.png)
 
+筆電上專案
+使用mamp server
 http://localhost:3000/index.html
 <br>
 node.js記事本
